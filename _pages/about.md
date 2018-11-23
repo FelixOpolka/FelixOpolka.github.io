@@ -23,4 +23,4 @@ I was born and raised in Regensburg, a small town in Bavaria, Germany. After att
 
 After graduating in 2018, I enrolled in a master's degree at the **University of Cambridge** where I am continuing my research on machine learning methods.
 
-In my free time I have always enjoyed writing and I have headed my high school's student newspaper for many years as well as the student council's newspaper during my time in Munich. Besides that, I enjoy running, hiking, and skiing.
+In my free time, I enjoy writing and I headed my high school's student newspaper for many years as well as the student council's newspaper during my time in Munich. Besides that, I enjoy running, hiking, and skiing.
