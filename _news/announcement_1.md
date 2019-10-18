@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2018-10-01 15:59:00-0400
+date: 2019-10-01 15:59:00-0400
 inline: true
 ---
 
-Moved to Cambridge to study for an MPhil in Advanced Computer Science
+Started a PhD in Computer Science at the University of Cambridge focusing on machine learning.

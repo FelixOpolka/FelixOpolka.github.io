@@ -21,7 +21,7 @@ Hello, thanks for visiting my website! I'm Felix Opolka, an aspiring computer sc
 
 I was born and raised in Regensburg, a small town in Bavaria, Germany. After attending high school there, I moved to Munich to study Computer Science at the **Technical University of Munich** in 2015. During my undergraduate degree, I have developed a strong interest in machine learning and ended up doing research on using machine learning methods for drug discovery and later protein structure prediction in my final year.
 
-After graduating in 2018, I enrolled in a master's degree at the **University of Cambridge** where I am continuing my research on machine learning methods.
+After graduating in 2018, I enrolled in a master's degree at the **University of Cambridge** to work on unsupervised representation learning with neural networks for graph-structured data. In October 2019, I started my **PhD in Cambridge** to continue with my research on machine learning methods.
 
 In my free time, I enjoy writing and I headed my high school's student newspaper for many years as well as the student council's newspaper during my time in Munich. Besides that, I enjoy running, hiking, and skiing.
 
