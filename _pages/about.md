@@ -17,7 +17,7 @@ news: true
 social: true
 ---
 
-Hello, thanks for visiting my website! I'm Felix Opolka, an aspiring computer science researcher specialising in **machine learning**. Currently, I am a graduate student at the University of Cambridge studying for an MPhil in Advanced Computer Science.
+Hello, thanks for visiting my website! I'm Felix, an aspiring computer science researcher specialising in **machine learning**. Currently, I am a PhD student in Artificial Intelligence at the University of Cambridge.
 
 I was born and raised in Regensburg, a small town in Bavaria, Germany. After attending high school there, I moved to Munich to study Computer Science at the **Technical University of Munich** in 2015. During my undergraduate degree, I have developed a strong interest in machine learning and ended up doing research on using machine learning methods for drug discovery and later protein structure prediction in my final year.
 
