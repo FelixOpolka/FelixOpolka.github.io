@@ -27,4 +27,10 @@ In my free time, I enjoy writing and I headed my high school's student newspaper
 
 #### Publications
 
+* <sub>Yeghikyan G., **Opolka, FL.**, Nanni M., Lepri B., Liò, P. (2020) **Learning Mobility Flows from Urban Features with Spatial Interaction Models and Neural Networks**. *6th IEEE International Conference on Smart Computing (SMARTCOMP 2020)* [[arXiv preprint](https://arxiv.org/pdf/2004.11924)]</sub>
+
 * <sub>**Opolka, FL.**\*, Solomon, A.\*, Cangea, C., Veličković, P., Liò, P. and Hjelm, RD. (2019) **Spatio-Temporal Deep Graph Infomax**. *Workshop on Representation Learning on Graphs and Manifolds (RLGM) at the 7th International Conference on Learning Representations (ICLR 2019)* [[arXiv preprint](https://arxiv.org/abs/1904.06316)]</sub>
+
+#### Pre-prints
+
+* <sub>**Opolka, FL.**, Liò, P. (2020) **Graph Convolutional Gaussian Processes For Link Prediction**. *arXiv* [[arXiv preprint](https://arxiv.org/abs/2002.04337)]</sub>
